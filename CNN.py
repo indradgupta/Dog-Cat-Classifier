@@ -59,7 +59,7 @@ classifier.fit_generator(training_set,
 classifier.save("model_25.h5")
 
 
-
+#this model give around 82% validation accuracy .
 
 
 
